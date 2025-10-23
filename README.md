@@ -1,7 +1,6 @@
 # Hi, I'm Pranay...
 
-### Tech Enthusiast | ML/DL Engineer | Open Source Contributor | Problem Solver
-
+### Tech Enthusiast | ML | DL | Open Source Contributor | Problem Solver
 <p align="center">
   <em>Second-year Mathematics and Computer Science undergraduate based in New Delhi, India 🇮🇳. Passionate about leveraging technology to build scalable and impactful solutions, with a focus on Machine Learning, Deep Learning, Generative Adversarial Networks (GANs), Data Structures & Algorithms, and Open Source.</em>
 </p>
