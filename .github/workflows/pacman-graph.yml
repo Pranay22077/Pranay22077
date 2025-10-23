@@ -15,7 +15,7 @@ jobs:
     name: generate-pacman-graph
     steps:
       - uses: actions/checkout@v3
-      - uses: m1so-dev/github-contribution-graph-generator-action@v1
+      - uses: m1so-dev/github-contribution-graph-generator@v1
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
