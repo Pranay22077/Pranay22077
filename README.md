@@ -1,4 +1,4 @@
-# Hi, I'm Pranay Gadh 👋
+# Hi, I'm Pranay...
 
 ### Tech Enthusiast | ML/DL Engineer | Open Source Contributor | Problem Solver
 
@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmh0yjw1t00oqjm04ur3ewgl3" target="_blank">
-    <img src="Lvl0-astronaut.webp" alt="Hacktoberfest 2025 Contributor Badge" width="150"/>
+    <img src="badges/lvl0-astronaut.webp" alt="Hacktoberfest 2025 Contributor Badge" width="150"/>
   </a>
   <br/>
   <em>Proud participant in Hacktoberfest 2025!</em>
@@ -29,7 +29,7 @@
 
 ## 💫 About Me
 
- *I began my coding journey in my first year of college and quickly developed a passion for Machine Learning, problem-solving through DSA, and contributing to the open-source community.
+* I began my coding journey in my first year of college and quickly developed a passion for Machine Learning, problem-solving through DSA, and contributing to the open-source community.
 
 * My current focus is deepening my expertise in ML/DL/GANs and mastering advanced algorithms, while also actively participating in open-source projects (like Hacktoberfest!). I also have a solid foundation in web development.
 
