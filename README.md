@@ -15,7 +15,15 @@
 
 ## 🏆 Hacktoberfest 2025
 
-[![Hoplin Badge](https://holopin.me/cmh0yjw1t00oqjm04ur3ewgl3)](https://holopin.io/@pranay22077)
+<p align="center">
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmh0yjw1t00oqjm04ur3ewgl3" target="_blank">
+    <img src="Lvl0-astronaut.webp" alt="Hacktoberfest 2025 Contributor Badge" width="150"/>
+  </a>
+  <br/>
+  <em>Proud participant in Hacktoberfest 2025!</em>
+</p>
+
+---
 
 
 
