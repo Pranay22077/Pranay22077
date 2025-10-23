@@ -92,10 +92,15 @@ Here are some of the technologies and tools I work with:
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranay22077/Pranay22077/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranay22077/Pranay22077/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Pranay22077/Pranay22077/output/pacman-contribution-graph.svg">
   </picture>
   
   <br/>
   
   <img src="https://raw.githubusercontent.com/Pranay22077/Pranay22077/output/snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranay22077&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
+
 </p>
