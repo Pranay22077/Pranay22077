@@ -1,15 +1,15 @@
 # Hi, I'm Pranay Gadh 👋
-### Tech Enthusiast | machine learning | deep learning | ANN | CNN | RNN | LSTM 
+### Tech Enthusiast | Machine learning | Deep learning | Generative Adverserial Networks | Data Structures and Algorithms
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="coder">
 </p>
 
 ## 💫 About Me
-- I am a second-year Mathematics and Computer Science undergraduate based in New Delhi, India, with a strong passion for web development development .
+- I am a second-year Mathematics and Computer Science undergraduate based in New Delhi, India, with a strong passion for develpoment, Open-Source, Machine Learning, Deep Learning and DSA .
 
 - I began coding in sem 2 of my college and have since developed a keen interest in building scalable and impactful solutions. I enjoy working on both quick prototypes and long-term projects that require deeper problem-solving and technical expertise.
 
-- My current focus lies in exploring machine learning and artificial intelligence, while I also hold strong skills in the Front- end , having built and deployed web applications  I am continuously expanding my skill set, experimenting with new tools and frameworks, and refining my development practices.
+- My current focus lies in exploring machine learning, open-source and DSA, while I also hold strong skills in the Front- end , having built and deployed web applications  I am continuously expanding my skill set, experimenting with new tools and frameworks, and refining my development practices.
 
 - I thrive on the philosophy of continuous learning, innovation, and delivering results
 
