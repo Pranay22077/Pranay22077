@@ -1,37 +1,27 @@
-# Hi, I'm Pranay...
+# Hi, I'm Pranay... 👋
 
 ### Tech Enthusiast | ML | DL | Open Source Contributor | Problem Solver
+
 <p align="center">
   <em>Second-year Mathematics and Computer Science undergraduate based in New Delhi, India 🇮🇳. Passionate about leveraging technology to build scalable and impactful solutions, with a focus on Machine Learning, Deep Learning, Generative Adversarial Networks (GANs), Data Structures & Algorithms, and Open Source.</em>
 </p>
 
----
 <p align="center">
-
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="coder">
-
-</p>
-
-## 🏆 Hacktoberfest 2025
-
-<p align="center">
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmh0yjw1t00oqjm04ur3ewgl3" target="_blank">
-    <img src="badges/lvl0-astronaut.webp" alt="Hacktoberfest 2025 Contributor Badge" width="150"/>
+  <a href="https://www.linkedin.com/in/pranay22077/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pranay%20Gadh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <br/>
-  <em>Proud participant in Hacktoberfest 2025!</em>
+  </p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="coder" width="600"/>
 </p>
 
 ---
-
-
 
 ## 💫 About Me
 
 * I began my coding journey in my first year of college and quickly developed a passion for Machine Learning, problem-solving through DSA, and contributing to the open-source community.
-
-* My current focus is deepening my expertise in ML/DL/GANs and mastering advanced algorithms, while also actively participating in open-source projects (like Hacktoberfest!). I also have a solid foundation in web development.
-
+* My current focus is deepening my expertise in ML/DL/GANs and mastering advanced algorithms, while also actively participating in open-source projects.
 * I believe in continuous learning, innovation, and delivering results. Always exploring new ideas and chasing what inspires me!
 
 ---
@@ -71,35 +61,41 @@ Here are some of the technologies and tools I work with:
 
 ---
 
-## 📊 GitHub Stats & Activity
+## 🏆 Hacktoberfest 2025
 
 <p align="center">
-  <table width="100%">
-    <tr>
-      <td width="60%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=Pranay22077&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Pranay's%20GitHub%20Stats" alt="Pranay's GitHub stats"/>
-      </td>
-      <td width="40%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay22077&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" alt="Top Languages"/>
-        <br/><br/> 
-        <img src="https://streak-stats.demolab.com?user=Pranay22077&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-      </td>
-    </tr>
-  </table>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranay22077&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-</p>
-
----
-
-## Get In Touch
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/pranay22077/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pranay%20Gadh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmh0yjw1t00oqjm04ur3ewgl3" target="_blank">
+    <img src="badges/lvl0-astronaut.webp" alt="Hacktoberfest 2025 Contributor Badge" width="150"/>
   </a>
-  </p>
+  <br/>
+  <em>Proud participant in Hacktoberfest 2025!</em>
+</p>
 
 ---
+
+## 📊 GitHub Stats & Achievements
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pranay22077&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranay22077&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Pranay22077&theme=dracula&hide_border=false&border_radius=5" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app?username=Pranay22077&theme=dracula&column=7&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="trophy graph" />
+</p>
+
+---
+
+## 🚀 My Activity & Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranay22077/Pranay22077/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranay22077/Pranay22077/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Pranay22077/Pranay22077/output/pacman-contribution-graph.svg">
+  </picture>
+  
+  <br/>
+  
+  <img src="https://raw.githubusercontent.com/Pranay22077/Pranay22077/output/snake.svg" alt="Snake animation" />
+</p>
