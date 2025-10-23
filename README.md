@@ -75,21 +75,30 @@ Here are some of the technologies and tools I work with:
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranay22077&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pranay's GitHub stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay22077&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" alt="Top Languages"/>
-  <br/>
+  <table width="100%">
+    <tr>
+      <td width="60%" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api?username=Pranay22077&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=Pranay's%20GitHub%20Stats" alt="Pranay's GitHub stats"/>
+      </td>
+      <td width="40%" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay22077&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" alt="Top Languages"/>
+        <br/><br/> {/* Add some space */}
+        <img src="https://streak-stats.demolab.com?user=Pranay22077&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+      </td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranay22077&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Pranay22077&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
 
-## 📫 Get In Touch
+## Get In Touch
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pranay-gadh-a01a752a7/" target="_blank">
+  <a href="https://www.linkedin.com/in/pranay22077/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Pranay%20Gadh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   </p>
