@@ -82,7 +82,7 @@ Here are some of the technologies and tools I work with:
       </td>
       <td width="40%" valign="top">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay22077&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" alt="Top Languages"/>
-        <br/><br/> {/* Add some space */}
+        <br/><br/> 
         <img src="https://streak-stats.demolab.com?user=Pranay22077&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
       </td>
     </tr>
