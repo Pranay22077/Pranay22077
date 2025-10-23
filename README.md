@@ -1,4 +1,4 @@
-# Hi, I'm Pranay... 👋
+# Hi, I'm Pranay...!
 
 ### Tech Enthusiast | ML | DL | Open Source Contributor | Problem Solver
 
@@ -26,7 +26,7 @@
 
 ---
 
-## 💻 Tech Stack & Skills
+## Tech Stack & Skills
 
 Here are some of the technologies and tools I work with:
 
@@ -73,7 +73,7 @@ Here are some of the technologies and tools I work with:
 
 ---
 
-## 📊 GitHub Stats & Achievements
+## GitHub Stats & Achievements
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pranay22077&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
@@ -86,7 +86,7 @@ Here are some of the technologies and tools I work with:
 
 ---
 
-## 🚀 My Activity & Contributions
+## My Activity & Contributions
 
 <p align="center">
   <picture>
