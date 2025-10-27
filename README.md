@@ -81,7 +81,11 @@ Here are some of the technologies and tools I work with:
   <br/>
   <img src="https://streak-stats.demolab.com?user=Pranay22077&theme=dracula&hide_border=false&border_radius=5" alt="GitHub Streak" />
   <br/>
-  <img src="https://github-profile-trophy.vercel.app?username=Pranay22077&theme=dracula&column=7&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="trophy graph" />
+  <p align="center">
+  <a href="https://github.com/Pranay22077">
+    <img src="https://github-profile-3d-contrib.vercel.app/api?username=Pranay22077&theme=dracula" alt="3D Contributions"/>
+  </a>
+</p>
 </p>
 
 ---
