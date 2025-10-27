@@ -154,7 +154,7 @@ Here are some of the technologies and tools I work with:
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="LinkedIn" />
   </a>
 
-  < <a href="https://discord.com/channels/@me" target="_blank">
+  <a href="https://discord.com/channels/@me" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="100" alt="Discord" />
   </a>
 
