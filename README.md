@@ -156,7 +156,7 @@ Here are some of the technologies and tools I work with:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranay22077&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph"/>
 </p> -->
 # <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="40" /> Contact me
-<p align="left">
+<p align="center">
 
   <a href="https://www.linkedin.com/in/pranay22077/" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="100" alt="LinkedIn" />
