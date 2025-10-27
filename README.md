@@ -13,10 +13,8 @@
   </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="coder" width="600"/>
+    <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contributions" width="600"/>
 </p>
-
----
 
 ## 💫 About Me
 
@@ -94,9 +92,9 @@ To:  -->
     <img alt="Pacman" src="https://raw.githubusercontent.com/Pranay22077/Pranay22077/output/pacman-contribution-graph.svg">
   </picture>
   
-  <br/> 
+  <!-- <br/> 
     <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contributions"/>
-  <br/>
+  <br/> -->
   
   <img src="https://raw.githubusercontent.com/Pranay22077/Pranay22077/output/snake.svg" alt="Snake animation" />
 </p>
