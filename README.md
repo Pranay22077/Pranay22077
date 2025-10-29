@@ -131,7 +131,7 @@ Here are some of the technologies and tools I work with:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pranay22077&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Pranay22077&theme=dracula&hide_border=false&border_radius=5" alt="GitHub Streak" />
+  <img src = "https://streak-stats.demolab.com?user=Pranay22077&theme=dracula&hide_border=false&border_radius=5" alt = "GitHub Streak">
 </p>
 
 
