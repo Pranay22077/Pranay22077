@@ -132,7 +132,7 @@ Here are some of the technologies and tools I work with:
     <img src="badges/lvl4-astronaut.webp" alt="Hacktoberfest 2025 Contributor Badge" width="150"/>
   </a>
   <br/>
-  <em>Proud participant in Hacktoberfest 2025!</em>
+  <!-- <em>Proud participant in Hacktoberfest 2025!</em> -->
 </p>
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Comet" width="40" /> GitHub Stats & Achievements
