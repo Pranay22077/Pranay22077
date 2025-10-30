@@ -131,6 +131,9 @@ Here are some of the technologies and tools I work with:
   <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhcb58lc008qjo04e5k2vvp3" target="_blank">
     <img src="badges/lvl4-astronaut.webp" alt="Hacktoberfest 2025 Contributor Badge" width="150"/>
   </a>
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhcu2l290009jr04dw1xaf5g" target="_blank">
+    <img src="badges/lvl5-astronaut.webp" alt="Hacktoberfest 2025 Contributor Badge" width="150"/>
+  </a>
   <br/>
   <!-- <em>Proud participant in Hacktoberfest 2025!</em> -->
 </p>
