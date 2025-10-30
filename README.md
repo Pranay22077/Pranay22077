@@ -182,9 +182,20 @@ Here are some of the technologies and tools I work with:
   <img src = "https://streak-stats.demolab.com?user=Pranay22077&theme=dracula&hide_border=false&border_radius=5" alt = "GitHub Streak">
 </p> -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranay22077&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pranay22077&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" height="180"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Pranay22077&show_icons=true&theme=transparent&hide_border=true&bg_color=FFFFFF00&title_color=FF7B00&icon_color=FFD700&text_color=404040" 
+    alt="GitHub Stats" 
+    height="180"
+  />
+  <img 
+    src="https://github-readme-streak-stats.vercel.app?user=Pranay22077&theme=transparent&hide_border=true&background=FFFFFF00&stroke=FF8C00&ring=FFB300&fire=FFD700&currStreakLabel=FF8C00&sideLabels=FFB347&dates=404040" 
+    alt="GitHub Streak" 
+    height="180"
+  />
 </div>
+
+
+
 
 # <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="40" /> My Activity & Contributions
 
