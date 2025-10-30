@@ -188,11 +188,12 @@ Here are some of the technologies and tools I work with:
     height="180"
   />
   <img 
-    src="assets/github-streak.png" 
-    alt="GitHub Streak" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay22077&layout=compact&hide_border=true&bg_color=FFFFFF00&title_color=FF7B00&text_color=404040" 
+    alt="Top Languages" 
     height="180"
   />
 </div>
+
 
 
 
