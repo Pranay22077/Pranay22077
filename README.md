@@ -116,9 +116,9 @@ Here are some of the technologies and tools I work with:
 # 🏆 Hacktoberfest 2025
 
 <p align="center">
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmh0yjw1t00oqjm04ur3ewgl3" target="_blank">
+  <!-- <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmh0yjw1t00oqjm04ur3ewgl3" target="_blank">
     <img src="badges/lvl0-astronaut.webp" alt="Hacktoberfest 2025 Contributor Badge" width="150"/>
-  </a>
+  </a> -->
   <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhay5mkv0019ji04kzmmlg8l" target="_blank">
     <img src="badges/lvl1-astronaut.webp" alt="Hacktoberfest 2025 Contributor Badge" width="150"/>
   </a>
