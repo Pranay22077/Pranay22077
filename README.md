@@ -188,11 +188,12 @@ Here are some of the technologies and tools I work with:
     height="180"
   />
   <img 
-    src="https://github-readme-streak-stats.vercel.app?user=Pranay22077&theme=transparent&hide_border=true&background=FFFFFF00&stroke=FF8C00&ring=FFB300&fire=FFD700&currStreakLabel=FF8C00&sideLabels=FFB347&dates=404040" 
+    src="assets/github-streak.png" 
     alt="GitHub Streak" 
     height="180"
   />
 </div>
+
 
 
 
