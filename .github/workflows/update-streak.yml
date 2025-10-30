@@ -1,0 +1,28 @@
+name: ♻️ Update GitHub Streak Image
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'  # runs every 12 hours
+  workflow_dispatch:        # allows manual trigger
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Generate streak image
+        run: |
+          mkdir -p assets
+          curl -L "https://github-readme-streak-stats.vercel.app?user=Pranay22077&theme=transparent&hide_border=true&background=FFFFFF00&stroke=FF8C00&ring=FFB300&fire=FFD700&currStreakLabel=FF8C00&sideLabels=FFB347&dates=404040" \
+          -o assets/github-streak.png
+
+      - name: Commit and push updated streak image
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/github-streak.png
+          git commit -m "Auto-update GitHub Streak image [skip ci]" || echo "No changes to commit"
+          git push
