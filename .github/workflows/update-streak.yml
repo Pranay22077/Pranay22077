@@ -19,8 +19,8 @@ jobs:
       - name: Generate streak image
         run: |
           mkdir -p assets
-          curl -L "https://github-readme-streak-stats.vercel.app?user=Pranay22077&theme=transparent&hide_border=true&background=FFFFFF00&stroke=FF8C00&ring=FFB300&fire=FFD700&currStreakLabel=FF8C00&sideLabels=FFB347&dates=404040" \
-          -o assets/github-streak.png
+          curl -o assets/github-streak.png "https://streak-stats.demolab.com/?user=Pranay22077&theme=default&hide_border=true&background=FFFFFF00&ring=FF8C00&fire=FFB300&currStreakLabel=FF7B00"
+
 
       - name: Commit and push updated streak image
         run: |
