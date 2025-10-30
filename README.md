@@ -119,10 +119,10 @@ Here are some of the technologies and tools I work with:
   <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmh0yjw1t00oqjm04ur3ewgl3" target="_blank">
     <img src="badges/lvl0-astronaut.webp" alt="Hacktoberfest 2025 Contributor Badge" width="150"/>
   </a>
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhay5mkv0019ji04kzmmlg8l?balloons=true" target="_blank">
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhay5mkv0019ji04kzmmlg8l" target="_blank">
     <img src="badges/lvl1-astronaut.webp" alt="Hacktoberfest 2025 Contributor Badge" width="150"/>
   </a>
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmh0yjw1t00oqjm04ur3ewgl3" target="_blank">
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhc4kvjd0069i804ji4f0gt4" target="_blank">
     <img src="badges/lvl2-astronaut.webp" alt="Hacktoberfest 2025 Contributor Badge" width="150"/>
   </a>
   <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhc4l5tz007rkz049z4mbznm" target="_blank">
