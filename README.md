@@ -116,30 +116,63 @@ Here are some of the technologies and tools I work with:
 # 🏆 Hacktoberfest 2025
 
 <p align="center">
-  <!-- <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmh0yjw1t00oqjm04ur3ewgl3" target="_blank">
-    <img src="badges/lvl0-astronaut.webp" alt="Hacktoberfest 2025 Contributor Badge" width="150"/>
-  </a> -->
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhay5mkv0019ji04kzmmlg8l" target="_blank">
-    <img src="badges/lvl1-astronaut.webp" alt="Hacktoberfest 2025 Contributor Badge" width="150"/>
-  </a>
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhc4kvjd0069i804ji4f0gt4" target="_blank">
-    <img src="badges/lvl2-astronaut.webp" alt="Hacktoberfest 2025 Contributor Badge" width="150"/>
-  </a>
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhc4l5tz007rkz049z4mbznm" target="_blank">
-    <img src="badges/lvl3-astronaut.webp" alt="Hacktoberfest 2025 Contributor Badge" width="150"/>
-  </a>
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhcb58lc008qjo04e5k2vvp3" target="_blank">
-    <img src="badges/lvl4-astronaut.webp" alt="Hacktoberfest 2025 Contributor Badge" width="150"/>
-  </a>
-  <a href="https://www.holopin.io/userbadge/cmhcu23z4001tlc0400ptiew7" target="_blank">
-    <img src="badges/treenation.webp" alt="Hacktoberfest 2025 Contributor Badge" width="150"/>
-  </a>
-  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhcu2l290009jr04dw1xaf5g" target="_blank">
-    <img src="badges/lvl5-astronaut-superrr.webp" alt="Hacktoberfest 2025 Contributor Badge" width="150"/>
-  </a>
-  <br/>
-  <!-- <em>Proud participant in Hacktoberfest 2025!</em> -->
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"/>
 </p>
+
+<p align="center">
+  <strong style="font-size: 1.5em;">✨ Hacktoberfest 2025 Journey ✨</strong><br/>
+  <sub>From first PR to Super Contributor :- a journey through open source and collaboration </sub>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"/>
+</p>
+
+<!-- Main badge highlight -->
+<div align="center" style="border: 2px solid transparent; border-radius: 20px; padding: 20px; background: rgba(255,255,255,0.05); box-shadow: 0px 0px 25px rgba(255, 215, 0, 0.4);">
+
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhcu2l290009jr04dw1xaf5g" target="_blank">
+    <img src="badges/lvl5-astronaut-superrr.webp" alt="Hacktoberfest 2025 Super Contributor Badge" width="220" style="border-radius:15px;"/>
+  </a>
+
+  <h3>🌟 Super Contributor (Level 5)</h3>
+  <p>
+    Among the <strong>10,000 contributors worldwide</strong> to reach this milestone!<br/>
+    <em>Recognition for consistent and quality open-source contributions throughout Hacktoberfest 2025.</em>
+  </p>
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"/>
+</p>
+
+<!-- Progression badges -->
+<p align="center">
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhay5mkv0019ji04kzmmlg8l" target="_blank">
+    <img src="badges/lvl1-astronaut.webp" alt="Hacktoberfest 2025 Level 1 Badge" width="100"/>
+  </a>
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhc4kvjd0069i804ji4f0gt4" target="_blank">
+    <img src="badges/lvl2-astronaut.webp" alt="Hacktoberfest 2025 Level 2 Badge" width="100"/>
+  </a>
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhc4l5tz007rkz049z4mbznm" target="_blank">
+    <img src="badges/lvl3-astronaut.webp" alt="Hacktoberfest 2025 Level 3 Badge" width="100"/>
+  </a>
+  <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhcb58lc008qjo04e5k2vvp3" target="_blank">
+    <img src="badges/lvl4-astronaut.webp" alt="Hacktoberfest 2025 Level 4 Badge" width="100"/>
+  </a>
+  <a href="https://www.holopin.io/userbadge/cmhcu23z4001tlc0400ptiew7" target="_blank">
+    <img src="badges/treenation.webp" alt="Hacktoberfest 2025 TreeNation Badge" width="100"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="500"/>
+</p>
+
+<p align="center">
+  <sub>Each badge represents a milestone in continuous learning, teamwork, and giving back to the developer community </sub>
+</p>
+
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Comet" width="40" /> GitHub Stats & Achievements
 
