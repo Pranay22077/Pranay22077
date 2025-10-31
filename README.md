@@ -2,7 +2,7 @@
   
   <img src="badges/Hi, I am Pranay.png" alt="Header" width="100%"/>
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF7B00&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=80&lines=Tech+Enthusiast+%7C+AI%2FML+Engineer;Open+Source+Contributor+%7C+Problem+Solver;Mathematics+%26+Computer+Science;Building+Scalable+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF7B00&center=true&vCenter=true&multiline=false&repeat=true&width=800&height=80&lines=Tech+Enthusiast+%7C+AI%2FML+Enthusiast;Open+Source+Contributor+%7C+Problem+Solver;Mathematics+%26+Computing;Building+Scalable+Solutions+%F0%9F%9A%80" alt="Typing SVG" />
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Pranay22077&label=Profile%20Views&color=FF7B00&style=for-the-badge" alt="Profile views" />
@@ -40,7 +40,7 @@ name: Pranay
 located_in: New Delhi, India
 current_focus: 
   - Machine Learning & Deep Learning
-  - Generative Adversarial Networks (GANs)
+  - OpenSource Contributions
   - Data Structures & Algorithms
 education: Mathematics & Computer Science (Year 2)
 interests: 
@@ -51,11 +51,11 @@ motto: "Continuous learning, innovation, and impactful results"
 ```
 
 💡 **Journey Highlights:**
-- 🎓 Started coding journey in **first year of college**
-- 🤖 Developed passion for **Machine Learning** and **Problem Solving**
-- 🌟 Active **open-source contributor** with growing community involvement
-- 🚀 Currently deepening expertise in **ML/DL/GANs** and **advanced algorithms**
-- ⚡ Always exploring new ideas and chasing what truly **inspires** me!
+-  Started coding journey in **first year of college**
+-  Developed passion for **Machine Learning** and **Problem Solving**
+-  Active **open-source contributor** with growing community involvement
+-  Currently deepening expertise in **ML/DL/GANs** and **advanced algorithms**
+-  Always exploring new ideas and chasing what truly **inspires** me!
 
 </td>
     <td align="center" style="border: none; width: 35%;">
@@ -274,10 +274,10 @@ current_projects = {
 </p>
 
 ### 📧 **Feel free to reach out for:**
-- 🤝 Collaboration on ML/DL projects
-- 💡 Open source contributions
-- 🚀 Tech discussions and knowledge sharing
-- 🎯 Problem-solving and algorithmic challenges
+-  Collaboration on ML/DL projects
+-  Open source contributions
+-  Tech discussions and knowledge sharing
+-  Problem-solving and algorithmic challenges
 
 </div>
 
@@ -285,7 +285,7 @@ current_projects = {
 
 <div align="center">
   
-### 💭 **Random Dev Quote**
+###  **Random Dev Quote** :)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House)
 
