@@ -137,7 +137,7 @@ Here are some of the technologies and tools I work with:
 
   <h3>🌟 Super Contributor (Level 5)</h3>
   <p>
-    Among the <strong>10,000 contributors worldwide</strong> to reach this milestone!<br/>
+    Among the <strong>5,668 contributors (dated 30/10/2025) </strong> and <strong>10,000 contributors worldwide</strong> to reach this milestone!<br/>
     <em>Recognition for consistent and quality open-source contributions throughout Hacktoberfest 2025.</em>
   </p>
 </div>
