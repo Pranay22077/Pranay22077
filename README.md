@@ -215,7 +215,7 @@ current_projects = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pranay22077&show_icons=true&theme=transparent&hide_border=true&bg_color=FFFFFF00&title_color=FF7B00&icon_color=FFD700&text_color=404040&rank_icon=github" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Pranay22077&theme=default&hide_border=true&background=FFFFFF00&ring=FF7B00&fire=FFB300&currStreakLabel=FF7B00&sideLabels=404040&dates=404040" alt="GitHub Streak" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=Pranay22077&theme=default&hide_border=true&background=FFFFFF00&ring=FF7B00&fire=FFB300&currStreakLabel=FF7B00&sideLabels=404040&dates=404040" alt="GitHub Streak" />
 </div>
 
 <div align="center">
