@@ -1,4 +1,4 @@
-.<div align="center">
+<div align="center">
   
   <img src="badges/Hi, I am Pranay.png" alt="Header" width="100%"/>
   
