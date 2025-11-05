@@ -72,6 +72,8 @@ motto: "Continuous learning, innovation, and impactful results"
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> Currently Working On
 
+<div align="center">
+  
 ```python
 current_projects = {
     "learning": ["Advanced Deep Learning Architectures", "GANs and Generative Models", "Advanced DSA Patterns"],
@@ -80,6 +82,12 @@ current_projects = {
     "goal": "Making meaningful impact through technology"
 }
 ```
+
+</div>
+
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="600"/>
+</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -213,6 +221,12 @@ current_projects = {
   <img src="https://github-profile-trophy.vercel.app/?username=Pranay22077&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pranay22077&repo=Pranay22077&theme=transparent&hide_border=true&title_color=FF7B00&text_color=404040&bg_color=FFFFFF00" alt="Pinned Repo" width="45%"/>
+</div>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Stats" width="40" /> GitHub Stats & Achievements
@@ -249,6 +263,20 @@ current_projects = {
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranay22077/Pranay22077/output/snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pranay22077/Pranay22077/output/snake.svg">
   </picture>
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## <img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" alt="Metrics" width="40" /> Productivity & Code Metrics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pranay22077&theme=transparent&utcOffset=5.5" alt="Productive Time" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pranay22077&theme=transparent" alt="Repos Per Language" width="45%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pranay22077&theme=transparent" alt="Most Commit Language" width="45%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pranay22077&theme=transparent" alt="Stats" width="45%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
