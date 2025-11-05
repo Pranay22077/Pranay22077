@@ -19,7 +19,7 @@ jobs:
       - name: Generate streak image
         run: |
           mkdir -p assets
-          curl -o assets/github-streak.png "https://streak-stats.demolab.com/?user=Pranay22077&theme=default&hide_border=true&background=FFFFFF00&ring=FF8C00&fire=FFB300&currStreakLabel=FF7B00"
+          curl -o assets/github-streak.png "https://github-readme-streak-stats.herokuapp.com/?user=Pranay22077&theme=default&hide_border=true&background=FFFFFF00&ring=FF8C00&fire=FFB300&currStreakLabel=FF7B00"
 
 
       - name: Commit and push updated streak image

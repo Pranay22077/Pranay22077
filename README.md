@@ -9,6 +9,10 @@
     <img src="https://img.shields.io/github/followers/Pranay22077?label=Followers&style=for-the-badge&color=FFD700" alt="followers" />
     <img src="https://img.shields.io/github/stars/Pranay22077?label=Stars&style=for-the-badge&color=FFA500" alt="stars" />
   </p>
+  
+  <br/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pranay22077&theme=transparent" alt="Profile Summary" width="90%"/>
 
 </div>
 
@@ -215,8 +219,10 @@ current_projects = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pranay22077&show_icons=true&theme=transparent&hide_border=true&bg_color=FFFFFF00&title_color=FF7B00&icon_color=FFD700&text_color=404040&rank_icon=github" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Pranay22077&theme=default&hide_border=true&background=FFFFFF00&ring=FF7B00&fire=FFB300&currStreakLabel=FF7B00&sideLabels=404040&dates=404040" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranay22077&theme=default&hide_border=true&background=FFFFFF00&ring=FF7B00&fire=FFB300&currStreakLabel=FF7B00&sideLabels=404040&dates=404040" alt="GitHub Streak" />
 </div>
+
+<br/>
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay22077&layout=compact&theme=transparent&hide_border=true&bg_color=FFFFFF00&title_color=FF7B00&text_color=404040" alt="Top Languages" />
@@ -233,6 +239,16 @@ current_projects = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranay22077&bg_color=FFFFFF00&color=FF7B00&line=FFD700&point=FFA500&area=true&hide_border=true&title_color=FF7B00" alt="Contribution Graph" width="95%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pranay22077/Pranay22077/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pranay22077/Pranay22077/output/snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Pranay22077/Pranay22077/output/snake.svg">
+  </picture>
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
