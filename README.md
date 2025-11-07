@@ -218,12 +218,12 @@ current_projects = {
   <img width="49%" src="https://streak-stats.demolab.com/?user=Pranay22077&theme=default&hide_border=true&background=FFFFFF00&ring=FF7B00&fire=FFB300&currStreakLabel=FF7B00&sideLabels=404040&dates=404040" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay22077&layout=compact&theme=transparent&hide_border=true&bg_color=FFFFFF00&title_color=FF7B00&text_color=404040" alt="Top Languages" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Pranay22077&limit=5&theme=transparent&combine_all_yearly_contributions=true&hide_border=true&title_color=FF7B00&text_color=404040&bg_color=FFFFFF00" alt="Contribution Stats" />
+<!-- <div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay22077&layout=compact&theme=transparent&hide_border=true&bg_color=FFFFFF00&title_color=FF7B00&text_color=404040" alt="Top Languages" /> -->
+  <!-- <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Pranay22077&limit=5&theme=transparent&combine_all_yearly_contributions=true&hide_border=true&title_color=FF7B00&text_color=404040&bg_color=FFFFFF00" alt="Contribution Stats" />
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"> -->
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Activity" width="40" /> My Activity & Contributions
 
