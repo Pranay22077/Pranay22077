@@ -228,7 +228,7 @@ current_projects = {
 ## <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Activity" width="40" /> My Activity & Contributions
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D Contributions" width="90%"/>
+  <img src="./profile-3d-contrib/profile-night-view.svg" alt="3D Contributions" width="90%"/>
 </p>
 
 <div align="center">
