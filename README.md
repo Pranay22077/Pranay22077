@@ -592,10 +592,10 @@ const pranay = {
 
   <br><br>
 
-  <!-- 📊 Made with Love -->
+  <!-- 📊 Made with Love
   ![Made with ❤️](https://img.shields.io/badge/Made_with-❤️-FF7B00?style=flat-square&labelColor=1a1b27)
   &nbsp;
-  ![Visitors](https://img.shields.io/badge/Thanks_for-Visiting!-FFD700?style=flat-square&labelColor=1a1b27)
+  ![Visitors](https://img.shields.io/badge/Thanks_for-Visiting!-FFD700?style=flat-square&labelColor=1a1b27) -->
 
 </div>
 
