@@ -5,7 +5,7 @@
 <div align="center">
   
   <!-- 🌌 Cosmic Header -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,25,27&height=200&section=header&text=𝙿𝚁𝙰𝙽𝙰𝚈&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=✧%20Crafting%20the%20Future%20with%20Code%20✧&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,25,27&height=200&section=header&text=𝙿𝚁𝙰𝙽𝙰𝚈&fontSize=70&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=✧%20Crafting%20the%20Future%20with%20Code%20✧&descAlignY=55&descSize=18" width="100%"/>
 
   <!-- ✨ Animated Typing Introduction -->
   <br>
@@ -72,7 +72,7 @@
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="35" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2000&pause=2000&color=FF7B00&center=true&vCenter=true&repeat=true&width=300&height=45&lines=%E2%9C%A8+ABOUT+ME" alt="About Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=2000&pause=2000&color=FF7B00&center=true&vCenter=true&repeat=true&width=300&height=45&lines=ABOUT+ME" alt="About Me" />
   <img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" width="35" />
 </div>
 
@@ -199,7 +199,7 @@ const pranay = {
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="35" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=2000&color=FF7B00&center=true&vCenter=true&repeat=true&width=400&height=45&lines=%F0%9F%9B%A0%EF%B8%8F+TECH+STACK+%26+SKILLS" alt="Tech Stack" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=2000&color=FF7B00&center=true&vCenter=true&repeat=true&width=400&height=45&lines=TECH+STACK+%26+SKILLS" alt="Tech Stack" />
   <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="35" />
 </div>
 
@@ -294,7 +294,7 @@ const pranay = {
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=2000&color=FF7B00&center=true&vCenter=true&repeat=true&width=500&height=45&lines=%F0%9F%8F%86+HACKTOBERFEST+2025+ACHIEVEMENT" alt="Hacktoberfest" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=2000&color=FF7B00&center=true&vCenter=true&repeat=true&width=500&height=45&lines=%F0%9F%8F%86+HACKTOBERFEST+'25" alt="Hacktoberfest" />
 </div>
 
 <br>
@@ -323,8 +323,8 @@ const pranay = {
   <!-- 📊 Stats Badges -->
   <img src="https://img.shields.io/badge/🏆_Rank-Top_5,668-FF7B00?style=flat-square&labelColor=1a1b27" alt="Rank"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/🎯_Goal-10,000_Contributors-4CAF50?style=flat-square&labelColor=1a1b27" alt="Goal"/>
-  &nbsp;
+  <!-- <img src="https://img.shields.io/badge/🎯_Goal-10,000_Contributors-4CAF50?style=flat-square&labelColor=1a1b27" alt="Goal"/>
+  &nbsp; -->
   <img src="https://img.shields.io/badge/📅_As_of-30/10/2025-00D9FF?style=flat-square&labelColor=1a1b27" alt="Date"/>
   
   <br><br>
@@ -407,7 +407,7 @@ const pranay = {
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Trophy" width="35" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=2000&color=FF7B00&center=true&vCenter=true&repeat=true&width=350&height=45&lines=%F0%9F%8F%86+GITHUB+TROPHIES" alt="Trophies" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=2000&color=FF7B00&center=true&vCenter=true&repeat=true&width=350&height=45&lines=GITHUB+TROPHIES" alt="Trophies" />
   <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Trophy" width="35" />
 </div>
 
@@ -428,7 +428,7 @@ const pranay = {
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Stats" width="35" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=2000&color=FF7B00&center=true&vCenter=true&repeat=true&width=500&height=45&lines=%F0%9F%93%8A+GITHUB+STATS+%26+ACHIEVEMENTS" alt="Stats" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=2000&color=FF7B00&center=true&vCenter=true&repeat=true&width=500&height=45&lines=GITHUB+STATS+%26+ACHIEVEMENTS" alt="Stats" />
   <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Stats" width="35" />
 </div>
 
@@ -450,7 +450,7 @@ const pranay = {
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Activity" width="35" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=2000&color=FF7B00&center=true&vCenter=true&repeat=true&width=500&height=45&lines=%F0%9F%93%88+ACTIVITY+%26+CONTRIBUTIONS" alt="Activity" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=2000&color=FF7B00&center=true&vCenter=true&repeat=true&width=500&height=45&lines=ACTIVITY+%26+CONTRIBUTIONS" alt="Activity" />
   <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Activity" width="35" />
 </div>
 
@@ -479,7 +479,7 @@ const pranay = {
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Connect" width="35" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=2000&color=FF7B00&center=true&vCenter=true&repeat=true&width=350&height=45&lines=%F0%9F%A4%9D+LET'S+CONNECT!" alt="Connect" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=2000&color=FF7B00&center=true&vCenter=true&repeat=true&width=350&height=45&lines=LET'S+CONNECT!" alt="Connect" />
   <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Connect" width="35" />
 </div>
 
