@@ -16,15 +16,15 @@
   <!-- 🏷️ Profile Badges -->
   <br><br>
   <a href="https://github.com/Pranay22077">
-    <img src="https://komarev.com/ghpvc/?username=Pranay22077&label=✨%20Profile%20Views&color=FF7B00&style=for-the-badge&abbreviated=true" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Pranay22077&label=%20Profile%20Views&color=FF7B00&style=for-the-badge&abbreviated=true" alt="Profile views" />
   </a>
   &nbsp;
   <a href="https://github.com/Pranay22077?tab=followers">
-    <img src="https://img.shields.io/github/followers/Pranay22077?label=%F0%9F%91%A5%20Followers&style=for-the-badge&color=FFD700&labelColor=1a1b27" alt="followers" />
+    <img src="https://img.shields.io/github/followers/Pranay22077?label=Followers&style=for-the-badge&color=FFD700&labelColor=1a1b27" alt="followers" />
   </a>
   &nbsp;
   <a href="https://github.com/Pranay22077?tab=stars">
-    <img src="https://img.shields.io/github/stars/Pranay22077?label=%E2%AD%90%20Stars&style=for-the-badge&color=FFA500&labelColor=1a1b27" alt="stars" />
+    <img src="https://img.shields.io/github/stars/Pranay22077?label=Stars&style=for-the-badge&color=FFA500&labelColor=1a1b27" alt="stars" />
   </a>
 
 </div>
