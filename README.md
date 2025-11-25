@@ -86,7 +86,7 @@
 // 🧑‍💻 Pranay's Digital Identity
 
 const pranay = {
-    pronouns: "he" | "him",
+    pronouns: "he/him",
     location: "New Delhi, India 🇮🇳",
     education: "B.Sc. Mathematics & Computing",
     
@@ -310,7 +310,7 @@ const pranay = {
   
   <!-- 🏅 Main Achievement Badge -->
   <a href="https://www.holopin.io/hacktoberfest2025/userbadge/cmhcu2l290009jr04dw1xaf5g" target="_blank">
-    <img src="badges/lvl5-astronaut-superrr.webp" alt="Hacktoberfest 2025 Super Contributor Badge" width="200" style="border-radius:15px;"/>
+    <img src="badges/lvl5-astronaut-superrr.webp" alt="Hacktoberfest 2025 Super Contributor Badge" width="200"/>
   </a>
   
   <br><br>
@@ -438,11 +438,6 @@ const pranay = {
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pranay22077&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF7B00&icon_color=FFD700&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=Pranay22077&theme=radical&hide_border=true&background=0D1117&ring=FF7B00&fire=FFB300&currStreakLabel=FF7B00&sideLabels=FFFFFF&dates=888888" alt="GitHub Streak" />
 </div>
-
-<!-- ✨ Note about commented stats -->
-<!-- <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranay22077&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF7B00&text_color=FFFFFF" alt="Top Languages" />
-</div> -->
 
 <!-- ✨ Animated Divider -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
