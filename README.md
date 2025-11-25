@@ -141,18 +141,10 @@ const pranay = {
 <br>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="35" />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2000&pause=2000&color=FF7B00&center=true&vCenter=true&repeat=true&width=450&height=45&lines=%F0%9F%9A%80+CURRENTLY+WORKING+ON" alt="Working On" />
-  <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="35" />
-</div>
-
-<br>
-
-<div align="center">
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="80"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="80" alt="TensorFlow"/>
         <br><br>
         <strong>📖 Learning</strong>
         <br><br>
@@ -161,7 +153,7 @@ const pranay = {
         <code>Advanced DSA Patterns</code>
       </td>
       <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="80"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="80" alt="PyTorch"/>
         <br><br>
         <strong>🔨 Building</strong>
         <br><br>
@@ -170,7 +162,7 @@ const pranay = {
         <code>Algorithmic Solutions</code>
       </td>
       <td align="center" width="33%">
-        <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="80"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/opencv/opencv-original.svg" width="80" alt="OpenCV"/>
         <br><br>
         <strong>🔭 Exploring</strong>
         <br><br>
