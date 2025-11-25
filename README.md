@@ -446,6 +446,7 @@ const pranay = {
   <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Activity" width="35" />
 </div>
 
+
 <br>
 
 <!-- 🌐 3D Contribution Calendar -->
@@ -457,7 +458,7 @@ const pranay = {
 
 <!-- 📈 Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranay22077&bg_color=0D1117&color=FF7B00&line=FFD700&point=FFFFFF&area=true&hide_border=true&title_color=FF7B00&area_color=FF7B0033" alt="Contribution Graph" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranay22077&bg_color=FFFFFF00&color=FF7B00&line=FFD700&point=FFA500&area=true&hide_border=true&title_color=FF7B00" alt="Contribution Graph" width="95%"/>
 </div>
 
 <!-- ✨ Animated Divider -->
