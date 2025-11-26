@@ -2,7 +2,7 @@
 <!--                              ✦ PRANAY'S UNIVERSE ✦                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <a href="#-pranas-universe-">
+  <a href="#-pranay's-universe-">
     <img src="https://img.shields.io/badge/💡_Pro_Tip-Switch_to_Light_Mode_for_the_best_viewing_experience!-FF7B00?style=for-the-badge&labelColor=FFFFFF" alt="Light Mode Tip"/>
   </a>
 </div>
