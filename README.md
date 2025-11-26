@@ -93,7 +93,7 @@
 const pranay = {
     pronouns: "he/him",
     location: "New Delhi, India 🇮🇳",
-    education: "B.Sc. Mathematics & Computing",
+    education: "B.Tech. Mathematics & Computing",
     
     currentFocus: [
         "🧠 Machine Learning & Deep Learning",
@@ -102,14 +102,14 @@ const pranay = {
         "⚡ Data Structures & Algorithms"
     ],
     
-    dailyRoutine: {
+    dailyRoutine(current_day){
         morning: "☕ Coffee + Code",
         afternoon: "📚 Learn something new",
         evening: "🔧 Build & Contribute",
-        night: "💡 Solve algorithmic challenges"
+        night: "💡 return dailyRoutine(current_day++)"
     },
     
-    lifePhilosophy: "Continuous learning → Innovation → Impact 🚀"
+    lifePhilosophy: "Time to Do it again Tomorrow 🚀"
 };
 ```
 
