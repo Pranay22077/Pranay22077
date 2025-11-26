@@ -1,20 +1,16 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!--                              ✦ PRANAY'S UNIVERSE ✦                              -->
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
-
-<!-- 💡 Light Mode Notice -->
 <div align="center">
   <a href="#-pranas-universe-">
     <img src="https://img.shields.io/badge/💡_Pro_Tip-Switch_to_Light_Mode_for_the_best_viewing_experience!-FF7B00?style=for-the-badge&labelColor=FFFFFF" alt="Light Mode Tip"/>
   </a>
 </div>
 
-<br>
-
 <div align="center">
   
   <!-- 🌌 Cosmic Header -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=2,3,20,21&height=200&section=header&text=𝙿𝚁𝙰𝙽𝙰𝚈&fontSize=70&fontColor=FF7B00&animation=fadeIn&fontAlignY=35&desc=✧%20Crafting%20the%20Future%20with%20Code%20✧&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,25,27&height=200&section=header&text=𝙿𝚁𝙰𝙽𝙰𝚈&fontSize=70&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=✧%20Crafting%20the%20Future%20with%20Code%20✧&descAlignY=55&descSize=18" width="100%"/>
 
   <!-- ✨ Animated Typing Introduction -->
   <br>
@@ -29,17 +25,17 @@
   </a>
   &nbsp;
   <a href="https://github.com/Pranay22077?tab=followers">
-    <img src="https://img.shields.io/github/followers/Pranay22077?label=Followers&style=for-the-badge&color=FFD700&labelColor=FFFFFF" alt="followers" />
+    <img src="https://img.shields.io/github/followers/Pranay22077?label=Followers&style=for-the-badge&color=FFD700&labelColor=1a1b27" alt="followers" />
   </a>
   &nbsp;
   <a href="https://github.com/Pranay22077?tab=stars">
-    <img src="https://img.shields.io/github/stars/Pranay22077?label=Stars&style=for-the-badge&color=FFA500&labelColor=FFFFFF" alt="stars" />
+    <img src="https://img.shields.io/github/stars/Pranay22077?label=Stars&style=for-the-badge&color=FFA500&labelColor=1a1b27" alt="stars" />
   </a>
 
 </div>
 
 <!-- 🌊 Wave Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,3,20,21&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,25,27&height=2" width="100%"/>
 
 <br>
 
@@ -186,7 +182,7 @@ const pranay = {
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/🎯_Goal-Making_meaningful_impact_through_technology-FF7B00?style=for-the-badge&labelColor=FFFFFF" alt="Goal"/>
+  <img src="https://img.shields.io/badge/🎯_Goal-Making_meaningful_impact_through_technology-FF7B00?style=for-the-badge&labelColor=1a1b27" alt="Goal"/>
 </div>
 
 <!-- ✨ Animated Divider -->
@@ -317,16 +313,16 @@ const pranay = {
   <br><br>
   
   <!-- ✨ Achievement Title -->
-  <img src="https://img.shields.io/badge/🌟_SUPER_CONTRIBUTOR-Level_5_Achieved-FFD700?style=for-the-badge&labelColor=FFFFFF" alt="Super Contributor"/>
+  <img src="https://img.shields.io/badge/🌟_SUPER_CONTRIBUTOR-Level_5_Achieved-FFD700?style=for-the-badge&labelColor=1a1b27" alt="Super Contributor"/>
   
   <br><br>
   
   <!-- 📊 Stats Badges -->
-  <img src="https://img.shields.io/badge/🏆_Rank-Top_5,668-FF7B00?style=flat-square&labelColor=FFFFFF" alt="Rank"/>
+  <img src="https://img.shields.io/badge/🏆_Rank-Top_5,668-FF7B00?style=flat-square&labelColor=1a1b27" alt="Rank"/>
   &nbsp;
-  <!-- <img src="https://img.shields.io/badge/🎯_Goal-10,000_Contributors-4CAF50?style=flat-square&labelColor=FFFFFF" alt="Goal"/>
+  <!-- <img src="https://img.shields.io/badge/🎯_Goal-10,000_Contributors-4CAF50?style=flat-square&labelColor=1a1b27" alt="Goal"/>
   &nbsp; -->
-  <img src="https://img.shields.io/badge/📅_As_of-30/10/2025-00D9FF?style=flat-square&labelColor=FFFFFF" alt="Date"/>
+  <img src="https://img.shields.io/badge/📅_As_of-30/10/2025-00D9FF?style=flat-square&labelColor=1a1b27" alt="Date"/>
   
   <br><br>
   
@@ -415,7 +411,7 @@ const pranay = {
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Pranay22077&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Pranay22077&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
 </div>
 
 <!-- ✨ Animated Divider -->
@@ -436,8 +432,8 @@ const pranay = {
 <br>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pranay22077&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=FF7B00&icon_color=FFD700&text_color=333333&rank_icon=github" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Pranay22077&theme=default&hide_border=true&background=FFFFFF&ring=FF7B00&fire=FFB300&currStreakLabel=FF7B00&sideLabels=333333&dates=666666" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Pranay22077&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF7B00&icon_color=FFD700&text_color=FFFFFF&rank_icon=github" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=Pranay22077&theme=default&hide_border=true&background=FFFFFF&ring=FF7B00&fire=FFB300&currStreakLabel=FF7B00&sideLabels=333333&dates=666666" alt="GitHub Streak" />
 </div>
 
 <!-- ✨ Animated Divider -->
@@ -460,7 +456,7 @@ const pranay = {
 
 <!-- 🌐 3D Contribution Calendar -->
 <div align="center">
-  <img src="./profile-3d-contrib/profile-season-animate.svg" alt="3D Contributions" width="90%"/>
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contributions" width="90%"/>
 </div>
 
 <br>
@@ -490,7 +486,7 @@ const pranay = {
 <div align="center">
 
   <!-- 💬 Invitation Message -->
-  <img src="https://img.shields.io/badge/💬_Always_open_to_interesting_conversations_and_collaboration!-FFFFFF?style=for-the-badge&labelColor=FF7B00" alt="Message"/>
+  <img src="https://img.shields.io/badge/💬_Always_open_to_interesting_conversations_and_collaboration!-1a1b27?style=for-the-badge" alt="Message"/>
 
   <br><br>
 
@@ -576,7 +572,7 @@ const pranay = {
 
   <br><br>
 
-  ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House)
+  ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it%2C%20it%27s%20bad.&author=Cory%20House)
 
 </div>
 
@@ -611,7 +607,7 @@ const pranay = {
 <br>
 
 <!-- 🌊 Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,20,21&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,27&height=120&section=footer&animation=twinkling" width="100%"/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <!--                        ✦ END OF PRANAY'S PROFILE ✦                              -->
