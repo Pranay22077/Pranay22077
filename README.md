@@ -109,7 +109,7 @@ const pranay = {
         night: "💡 return dailyRoutine(current_day++)"
     },
     
-    lifePhilosophy: "Time to Do it again Tomorrow 🚀"
+    lifePhilosophy: "To Do it again Tomorrow 🚀"
 };
 ```
 
