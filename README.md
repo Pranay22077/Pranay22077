@@ -10,7 +10,7 @@
 <div align="center">
   
   <!-- 🌌 Cosmic Header -->
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,25,27&height=200&section=header&text=𝙿𝚁𝙰𝙽𝙰𝚈&fontSize=70&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=✧%20Crafting%20the%20Future%20with%20Code%20✧&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=94d2bd&height=200&section=header&text=𝙿𝚁𝙰𝙽𝙰𝚈&fontSize=70&fontColor=000000&animation=fadeIn&fontAlignY=35&desc=✧%20Crafting%20the%20Future%20with%20Code%20✧&descAlignY=55&descSize=18" width="100%"/>
 
   <!-- ✨ Animated Typing Introduction -->
   <br>
